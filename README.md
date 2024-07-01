@@ -16,4 +16,4 @@ Olá, eu sou o Kawan, atualmente estudante de Ciências da Computação e buscan
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kkawan&bg_color=e3d1b2&border_color=986c3c&title_color=986c3c&text_color=1c1a19)
 
 ## Meus Projetos
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=kkawan&repo=dio-lab-open-sour&bg_color=e3d1b2&border_color=986c3c&show_icons=true&icon_color=30A3DC&title_color=986c3c&text_color=1c1a19)](https://github.com/kkawan/dio-lab-open-sour)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=kkawan&repo=Ebook-IA&bg_color=e3d1b2&border_color=986c3c&show_icons=true&icon_color=30A3DC&title_color=986c3c&text_color=1c1a19)](https://github.com/kkawan/Ebook-IA)
