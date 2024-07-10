@@ -2,15 +2,17 @@
 
 ###
 
-<p align="left">Hi, I'm Kawan, currently a Computer Science student and looking to develop professionally in the market.</p>
+<p align="left">Hi, I'm Kawan, currently a Computer Science student and looking to develop professionally in the market, from Londrina, Paraná, Brazil</p>
 
 ###
 
 <h2 align="left">About me</h2>
 
 ###
-
-<p align="left">📖 I'm currently learning english  <br>🎯 Goals: be polyglot and live in a cold place❄️</p>
+  - 📖 I'm currently learning english
+  - 🎯 Goals: be polyglot and live in a cold place❄️
+  - <img src="https://github.com/kkawan/kkawan/assets/159156218/8b7fec9e-cca5-4eda-825d-2170c171fa0a" width="17"/> I worked and studied in Japan for about 5 years
+  - In progress: Python IA, Typescript, React, Node and Tailwind
 
 ###
 
